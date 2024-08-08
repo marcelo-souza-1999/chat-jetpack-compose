@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Chat</string>
+    <string name="title_top_bar">Chat</string>
+    <string name="name_ellie">Ellie Willians</string>
+    <string name="message_ellie">Não se esqueça de me chamar amanhã cedo para a patrulha</string>
+    <string name="joel_name">Joel Miller</string>
+    <string name="message_joel">Joel, que horas você e o Tommy vão chegar da patrulha?</string>
 </resources>
