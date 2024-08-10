@@ -65,6 +65,7 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.google.accompanist.system.ui.controller)
+    implementation(libs.google.accompanist.navigation.animation)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
